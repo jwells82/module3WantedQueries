@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="cwRqdFields"
+    errors="0" failures="0" hostname="" id="" package="cwRqdFields" skipped="0"
+    tests="1" time="30.90" timestamp="">
+  
+    <testcase name="QO2J-182 CW Required fields" classname="cwRqdFields" time="30.90" assertions="7">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

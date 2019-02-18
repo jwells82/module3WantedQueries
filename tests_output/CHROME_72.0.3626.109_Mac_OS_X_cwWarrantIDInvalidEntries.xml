@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="cwWarrantIDInvalidEntries"
+    errors="0" failures="0" hostname="" id="" package="cwWarrantIDInvalidEntries" skipped="0"
+    tests="1" time="34.24" timestamp="">
+  
+    <testcase name="CW Warrant ID Invalid Entries" classname="cwWarrantIDInvalidEntries" time="34.24" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
